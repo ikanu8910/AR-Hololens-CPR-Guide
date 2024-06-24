@@ -12,7 +12,7 @@ I was the sole designer and the CPR guide was developed and designed in Figma. C
 The instructional content for our CPR trainer created through Figma can be found [here](https://www.figma.com/proto/VLd5kKy1kRDH1e0Px1JBTZ/IKEP_Figma-Toolkit-for-MRTK-%2F-HoloLens?node-id=11025%3A1685&scaling=contain&page-id=11025%3A1684)
 
 
-Link to video of the project: https://vimeo.com/966856576
+# Link to video of the project: https://vimeo.com/966856576
 
 
 #### Project Theme Description
