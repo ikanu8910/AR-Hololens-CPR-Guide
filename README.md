@@ -11,6 +11,10 @@ I was the sole designer and the CPR guide was developed and designed in Figma. C
 
 The instructional content for our CPR trainer created through Figma can be found [here](https://www.figma.com/proto/VLd5kKy1kRDH1e0Px1JBTZ/IKEP_Figma-Toolkit-for-MRTK-%2F-HoloLens?node-id=11025%3A1685&scaling=contain&page-id=11025%3A1684)
 
+
+<iframe src="https://player.vimeo.com/video/966856576?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1280" height="720" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" title="AR Hololens Final Video"></iframe>
+
+
 #### Project Theme Description
 
 Our proect idea was based on the fact that many people are nervous to perform CPR, even if they are trained, because they fear they don't fully know the instructions. A mixed reality display like HoloLens could be kept as a part of AED devices to guide civilians through performing CPR in emergency scenarios. We developed an AR environment that displays the Red Cross CPR instructions including scene safety, calling 911, checking the airway, and performing compressions. The pace for compressions was provided using audio of a 100 bpm metronome. We have access to a HoloLens we plan to use for demonstration. We developed this environment in Unity using Microsoft's Mixed Reality Toolkit (MRTK). 
